@@ -22,5 +22,5 @@ Ejecuta los siguentes comandos en la terminal para los seeders
 **# 5 Ver los status de nuestras tablas **
 -**php artisan migrate:status**
 
-**# 5 Hcer los rollback **
+**# 6 Hcer los rollback **
 -**php artisan migrate:rollback**
