@@ -20,7 +20,7 @@ Ejecuta los siguentes comandos en la terminal para los seeders
 - **php artisan db:seed Databaseseeder**
 
 **# 5 Ver los status de nuestras tablas **
--**php artisan migrate:status**
+- **php artisan migrate:status**
 
 **# 6 Hcer los rollback **
--**php artisan migrate:rollback**
+- **php artisan migrate:rollback**
