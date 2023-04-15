@@ -11,16 +11,16 @@ Para hacer este proyecto de laravel se utilizo laragon
 - Ejecuta el comando **composer install** para instalar las dependencias de Laravel.
 - Si el proyecto utiliza algún gestor de paquetes de front-end como npm o Yarn, debes ejecutar el comando **npm install** o **yarn install** para instalar las dependencias de front-end.
 
-** # 3 migraciones **
+**# 3 migraciones **
 - Ejecuta el comando **php artisan migrate** para correr las migraciones de Laravel y crear las tablas necesarias en la base de datos.
 - Te pedira crear la tabla dale yes
 
-** # 4 crear seeders **
+**# 4 crear seeders **
 Ejecuta los siguentes comandos en la terminal para los seeders
 - **php artisan db:seed Databaseseeder**
 
-** # 5 Ver los status de nuestras tablas **
+**# 5 Ver los status de nuestras tablas **
 -**php artisan migrate:status**
 
-** # 5 Hcer los rollback **
+**# 5 Hcer los rollback **
 -**php artisan migrate:rollback**
